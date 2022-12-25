@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ammar Mustafic</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Ammar Mustafic</h1>
  <p align = "center">• I’m currently learning JavaScript and C++ •</p>
 
 <div align="center">
