@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar Mustafic</h1>
- •🌱 I’m currently learning **JavaScript and C++**
+ <p align = "center">•I’m currently learning **JavaScript and C++•</p>
 
 
  <h3 align="center">How to reach me:<h3>
